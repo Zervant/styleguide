@@ -1,0 +1,5 @@
+# This file is managed by Terraform. Do not edit it directly.
+# To make changes, update the configuration in https://github.com/ageras-com/tf-github
+
+* @zervant/pt-eng-acctcore-bookkeeping
+.github/CODEOWNERS @zervant/pt-eng-platform-engineeringefficiency
